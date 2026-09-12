@@ -30,7 +30,7 @@ public class StudentMain {
         System.out.println("Name: " + s.getName());
         System.out.println("Age: " + s.getAge());
 
-        s.setName("Dhurshina");
+        s.setName("John");
         s.setAge(20);
 
         System.out.println("Name: " + s.getName());
